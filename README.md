@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/cakephp-trusted-proxies">cakephp-trusted-proxies</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/cakephp-trusted-proxies"><strong>https://abraxaslabs.tech/research/cakephp-trusted-proxies</strong></a>
+</p>
+
 
 # cakephp-trusted-proxies
 
